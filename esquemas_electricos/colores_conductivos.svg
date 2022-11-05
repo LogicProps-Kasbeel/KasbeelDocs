@@ -474,7 +474,7 @@
      id="layer3"
      inkscape:label="Fondo Blanco">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
        id="rect80606"
        width="346.81152"
        height="245.58366"
@@ -12151,7 +12151,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
        inkscape:export-ydpi="96"><tspan
          x="270.57422"
          y="646.1875"
-         id="tspan81230">2,2kΩ</tspan></text>
+         id="tspan81724">2,2kΩ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.77587px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.119397"
@@ -12198,7 +12198,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
        inkscape:export-ydpi="96"><tspan
          x="270.57422"
          y="646.1875"
-         id="tspan81232">2,2kΩ</tspan></text>
+         id="tspan81726">2,2kΩ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.77587px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.119397"
@@ -12245,7 +12245,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
        inkscape:export-ydpi="96"><tspan
          x="270.57422"
          y="646.1875"
-         id="tspan81234">2,2kΩ</tspan></text>
+         id="tspan81728">2,2kΩ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.77587px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.119397"
@@ -13265,7 +13265,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
                inkscape:export-ydpi="96"><tspan
                  x="270.57422"
                  y="646.1875"
-                 id="tspan81236">470 kΩ</tspan></text>
+                 id="tspan81730">470 kΩ</tspan></text>
           </g>
           <g
              id="g32939-0-8-8"
@@ -13290,7 +13290,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
                inkscape:export-ydpi="96"><tspan
                  x="270.57422"
                  y="646.1875"
-                 id="tspan81238">1,8 kΩ</tspan></text>
+                 id="tspan81732">1,8 kΩ</tspan></text>
           </g>
           <g
              id="g40374-8-1-1"
@@ -13305,7 +13305,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
                inkscape:export-ydpi="96"><tspan
                  x="270.57422"
                  y="646.1875"
-                 id="tspan81240">22 uF</tspan></text>
+                 id="tspan81734">22 uF</tspan></text>
             <path
                id="path40064-1-9-5-0"
                style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -13337,9 +13337,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-9-5-7);fill:#ff0000"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81244"><tspan
+               id="tspan81738"><tspan
                  style="font-size:10.6667px"
-                 id="tspan81242">Vref</tspan></tspan></text>
+                 id="tspan81736">Vref</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,-14.809416,-25.202866)"
@@ -13347,9 +13347,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-4-6-4-2);fill:#ff0000"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81248"><tspan
+               id="tspan81742"><tspan
                  style="font-size:10.6667px;fill:#000000"
-                 id="tspan81246">GND</tspan></tspan></text>
+                 id="tspan81740">GND</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,8.8228672,-34.897186)"
@@ -13357,9 +13357,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-0-4-8-4);fill:#ff0000"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81252"><tspan
+               id="tspan81746"><tspan
                  style="font-size:10.6667px;fill:#008000"
-                 id="tspan81250">Mano</tspan></tspan></text>
+                 id="tspan81744">Mano</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,-14.668305,-7.4100281)"
@@ -13367,9 +13367,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-0-0-3-1-0);fill:#d45500"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81256"><tspan
+               id="tspan81750"><tspan
                  style="font-size:10.6667px"
-                 id="tspan81254">Analog Signal A0</tspan></tspan></text>
+                 id="tspan81748">Analog Signal A0</tspan></tspan></text>
         </g>
         <g
            id="g71075-4-6-9"
@@ -13432,7 +13432,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
                inkscape:export-ydpi="96"><tspan
                  x="270.57422"
                  y="646.1875"
-                 id="tspan81258">470 kΩ</tspan></text>
+                 id="tspan81752">470 kΩ</tspan></text>
           </g>
           <g
              id="g32939-0-8"
@@ -13457,7 +13457,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
                inkscape:export-ydpi="96"><tspan
                  x="270.57422"
                  y="646.1875"
-                 id="tspan81260">1,8 kΩ</tspan></text>
+                 id="tspan81754">1,8 kΩ</tspan></text>
           </g>
           <g
              id="g40374-8-1"
@@ -13472,7 +13472,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
                inkscape:export-ydpi="96"><tspan
                  x="270.57422"
                  y="646.1875"
-                 id="tspan81262">22 uF</tspan></text>
+                 id="tspan81756">22 uF</tspan></text>
             <path
                id="path40064-1-9-5"
                style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -13504,9 +13504,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-9-5);fill:#ff0000"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81266"><tspan
+               id="tspan81760"><tspan
                  style="font-size:10.6667px"
-                 id="tspan81264">Vref</tspan></tspan></text>
+                 id="tspan81758">Vref</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,-14.809416,-25.202866)"
@@ -13514,9 +13514,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-4-6-4);fill:#ff0000"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81270"><tspan
+               id="tspan81764"><tspan
                  style="font-size:10.6667px;fill:#000000"
-                 id="tspan81268">GND</tspan></tspan></text>
+                 id="tspan81762">GND</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,8.8228672,-34.897186)"
@@ -13524,9 +13524,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-0-4-8);fill:#ff0000"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81274"><tspan
+               id="tspan81768"><tspan
                  style="font-size:10.6667px;fill:#008000"
-                 id="tspan81272">Mano</tspan></tspan></text>
+                 id="tspan81766">Mano</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,-14.668305,-7.4100281)"
@@ -13534,9 +13534,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-0-0-3-1);fill:#d45500"><tspan
                x="1052.8027"
                y="448.10993"
-               id="tspan81278"><tspan
+               id="tspan81772"><tspan
                  style="font-size:10.6667px"
-                 id="tspan81276">Analog Signal A1</tspan></tspan></text>
+                 id="tspan81770">Analog Signal A1</tspan></tspan></text>
         </g>
         <g
            id="g71075-4-6"
@@ -13596,7 +13596,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              inkscape:export-ydpi="96"><tspan
                x="270.57422"
                y="646.1875"
-               id="tspan81280">470 kΩ</tspan></text>
+               id="tspan81774">470 kΩ</tspan></text>
         </g>
         <g
            id="g32939-0"
@@ -13621,7 +13621,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              inkscape:export-ydpi="96"><tspan
                x="270.57422"
                y="646.1875"
-               id="tspan81282">1,8 kΩ</tspan></text>
+               id="tspan81776">1,8 kΩ</tspan></text>
         </g>
         <g
            id="g40374-8"
@@ -13636,7 +13636,7 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
              inkscape:export-ydpi="96"><tspan
                x="270.57422"
                y="646.1875"
-               id="tspan81284">22 uF</tspan></text>
+               id="tspan81778">22 uF</tspan></text>
           <path
              id="path40064-1-9"
              style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -13668,9 +13668,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
            style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-9);fill:#ff0000"><tspan
              x="1052.8027"
              y="448.10993"
-             id="tspan81288"><tspan
+             id="tspan81782"><tspan
                style="font-size:10.6667px"
-               id="tspan81286">Vref</tspan></tspan></text>
+               id="tspan81780">Vref</tspan></tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-14.809416,-25.202866)"
@@ -13678,9 +13678,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
            style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-4-6);fill:#ff0000"><tspan
              x="1052.8027"
              y="448.10993"
-             id="tspan81292"><tspan
+             id="tspan81786"><tspan
                style="font-size:10.6667px;fill:#000000"
-               id="tspan81290">GND</tspan></tspan></text>
+               id="tspan81784">GND</tspan></tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,8.8228672,-34.897186)"
@@ -13688,9 +13688,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
            style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-0-4);fill:#ff0000"><tspan
              x="1052.8027"
              y="448.10993"
-             id="tspan81296"><tspan
+             id="tspan81790"><tspan
                style="font-size:10.6667px;fill:#008000"
-               id="tspan81294">Mano</tspan></tspan></text>
+               id="tspan81788">Mano</tspan></tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-14.668305,-7.4100281)"
@@ -13698,9 +13698,9 @@ NAzDMAzDMAzDMG7K/wHFdAHXELFs0AAAAABJRU5ErkJggg==
            style="font-size:21.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect44499-0-0-3);fill:#d45500"><tspan
              x="1052.8027"
              y="448.10993"
-             id="tspan81300"><tspan
+             id="tspan81794"><tspan
                style="font-size:10.6667px"
-               id="tspan81298">Analog Signal A2</tspan></tspan></text>
+               id="tspan81792">Analog Signal A2</tspan></tspan></text>
       </g>
       <g
          id="g71075-4"
