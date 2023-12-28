@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="541.99735"
-     inkscape:cy="304.40947"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="1992"
-     inkscape:window-y="27"
+     inkscape:cx="541.99733"
+     inkscape:cy="304.76301"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-center="false"
@@ -1598,7 +1598,7 @@
            inkscape:export-ydpi="96"><tspan
              x="270.57422"
              y="646.1875"
-             id="tspan37931">10kΩ</tspan></text>
+             id="tspan2835">10kΩ</tspan></text>
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.38;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1737,7 +1737,7 @@
            inkscape:export-ydpi="96"><tspan
              x="270.57422"
              y="646.1875"
-             id="tspan37933">10kΩ</tspan></text>
+             id="tspan2837">10kΩ</tspan></text>
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.38;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1876,7 +1876,7 @@
            inkscape:export-ydpi="96"><tspan
              x="270.57422"
              y="646.1875"
-             id="tspan37935">10kΩ</tspan></text>
+             id="tspan2839">10kΩ</tspan></text>
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.38;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1922,13 +1922,23 @@
        id="path21376"
        sodipodi:nodetypes="ccc" />
     <path
+       id="path2186"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.245951,117.0183 h 32.982217 v 2.4299 h 5.192067" />
+    <path
        id="path22558"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 181.71933,63.929435 h 34.71533 v -6.16068 m -69.53389,6.160682 h 34.81856 v -6.627124 m -34.83284,-0.973845 v 85.212042 l -87.658322,-0.1032 V 119.4482 m -32.982217,-2.4299 h 32.982217 v 2.4299 h 5.192067" />
+       d="m 181.71933,63.929435 h 34.71533 v -6.16068 m -69.53389,6.160682 h 34.81856 v -6.627124 m -34.83284,-0.973845 0,63.313332 -35.54006,-0.1032"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="path1961"
+       style="fill:none;stroke:#ff0000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.14254,110.53694 h 29.678317 v 14.037 h 9.190353"
+       sodipodi:nodetypes="cccc" />
     <path
        id="path23431"
        style="fill:none;stroke:#ff0000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 176.36519,67.347089 34.97391,-2e-6 V 57.133853 m -69.79378,10.213236 h 34.81987 V 56.888295 M 55.820857,124.57394 v 19.55426 h 85.816083 l -0.0185,-87.740996 M 26.14254,110.53694 h 29.678317 v 14.037 h 9.190353" />
+       d="m 176.36519,67.347089 34.97391,-2e-6 V 57.133853 m -69.79378,10.213236 h 34.81987 V 56.888295 m -63.33714,67.700145 h 28.60889 l -0.0185,-68.201236" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-12.789094,-59.662137)"
@@ -1938,20 +1948,20 @@
        y="0"><tspan
          x="831.02539"
          y="268.01313"
-         id="tspan37939"><tspan
+         id="tspan2843"><tspan
            dx="0 0 0 0 0 7.8532715 0 0 0 0 7.8532715 0 0 0 7.8532715 0 0 0 0 0 7.8532867"
            style="font-style:italic;fill:#000080"
-           id="tspan37937">Este hall del revés para </tspan></tspan><tspan
+           id="tspan2841">Este hall del revés para </tspan></tspan><tspan
          x="831.02539"
          y="293.01313"
-         id="tspan37943"><tspan
+         id="tspan2847"><tspan
            dx="0 0 0 0 0 0 0 0 0 2.6977158 0 0 2.6977234 0 0 0 0 2.6977081"
            style="font-style:italic;fill:#000080"
-           id="tspan37941">detectar la otra polaridad </tspan></tspan><tspan
+           id="tspan2845">detectar la otra polaridad </tspan></tspan><tspan
          x="831.02539"
          y="318.01313"
-         id="tspan37947"><tspan
+         id="tspan2851"><tspan
            style="font-style:italic;fill:#000080"
-           id="tspan37945">del imán</tspan></tspan></text>
+           id="tspan2849">del imán</tspan></tspan></text>
   </g>
 </svg>
