@@ -39,9 +39,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.68388837"
-     inkscape:cx="435.21589"
-     inkscape:cy="213.48368"
+     inkscape:zoom="5.2914587"
+     inkscape:cx="391.7873"
+     inkscape:cy="133.14579"
      inkscape:window-width="1368"
      inkscape:window-height="842"
      inkscape:window-x="-6"
@@ -1648,97 +1648,94 @@
          x="102.48242"
          y="80.912274"><tspan
            style="font-size:3.175px;fill:#ff0000">12v</tspan></tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.365;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1179"
+       width="36.762592"
+       height="21.406542"
+       x="78.83519"
+       y="47.480415" />
+    <text
+       xml:space="preserve"
+       id="text1187"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1189);"
+       transform="translate(138.25394,-17.245362)"><tspan
+         x="-58.921875"
+         y="58.575509"><tspan>Regulador Voltaje </tspan></tspan><tspan
+         x="-58.921875"
+         y="63.426209"><tspan>HW-613</tspan></tspan></text>
+    <rect
+       style="fill:#666666;stroke:#000000;stroke-width:0.27;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1193"
+       width="11.312129"
+       height="11.020057"
+       x="89.819458"
+       y="57.334938" />
     <g
-       id="g1416">
-      <rect
-         style="fill:#00ff00;stroke:#000000;stroke-width:0.365;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1179"
-         width="36.762592"
-         height="21.406542"
-         x="78.83519"
-         y="47.480415" />
-      <text
-         xml:space="preserve"
-         id="text1187"
-         style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1189);"
-         transform="translate(138.25394,-17.245362)"><tspan
-           x="-58.921875"
-           y="58.575509"><tspan>Regulador Voltaje </tspan></tspan><tspan
-           x="-58.921875"
-           y="63.426209"><tspan>HW-613</tspan></tspan></text>
-      <rect
-         style="fill:#666666;stroke:#000000;stroke-width:0.27;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1193"
-         width="11.312129"
-         height="11.020057"
-         x="89.819458"
-         y="57.334938" />
-      <g
-         id="g1221"
-         transform="matrix(0.97752703,0,0,0.97752703,136.62164,-15.606592)">
-        <circle
-           style="fill:#cccccc;stroke:#000000;stroke-width:0.165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-           id="path1197"
-           cx="-54.374348"
-           cy="68.98719"
-           r="3.4195762" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -54.374348,66.781563 v 4.411255"
-           id="path1201" />
-        <path
-           style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -52.16872,68.98719 h -4.411255"
-           id="path1201-1" />
-      </g>
-      <text
-         xml:space="preserve"
-         id="text1258"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1260);"
-         x="7.5470066"
-         y="0"
-         transform="translate(117.2779,-16.023004)"><tspan
-           x="-9.0406859"
-           y="67.506024"><tspan
-             style="font-size:3.175px;text-align:end;text-anchor:end">Vo+</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text1258-1"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect1260-0);display:inline"
-         x="14.465964"
-         y="0"
-         transform="translate(117.2779,-10.802448)"><tspan
-           x="-9.7832763"
-           y="67.506024"><tspan
-             style="text-align:end;text-anchor:end">GND</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text1258-8"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1260-7);display:inline;"
-         x="13.721824"
-         y="0"
-         transform="translate(117.2779,-5.581898)"><tspan
-           x="-8.8096923"
-           y="67.506024"><tspan
-             style="font-size:3.175px;text-align:end;text-anchor:end">IN+</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text1258-3"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;text-align:end;white-space:pre;shape-inside:url(#rect1260-9);display:inline"
-         x="11.315769"
-         y="0"
-         transform="translate(117.2779,-0.361345)"><tspan
-           x="-6.8826782"
-           y="67.506024"><tspan
-             style="text-align:end;text-anchor:end">EN</tspan></tspan></text>
-      <ellipse
-         style="fill:none;stroke:#000000;stroke-width:0.644274;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="path1369"
-         ry="4.00705"
-         rx="3.9813118"
-         cy="62.844967"
-         cx="95.475525" />
+       id="g1221"
+       transform="matrix(0.97752703,0,0,0.97752703,136.62164,-15.606592)">
+      <circle
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.165;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path1197"
+         cx="-54.374348"
+         cy="68.98719"
+         r="3.4195762" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -54.374348,66.781563 v 4.411255"
+         id="path1201" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -52.16872,68.98719 h -4.411255"
+         id="path1201-1" />
     </g>
+    <text
+       xml:space="preserve"
+       id="text1258"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;text-align:start;white-space:pre;shape-inside:url(#rect1260)"
+       x="7.5470061"
+       y="0"
+       transform="translate(119.39458,-16.023004)"><tspan
+         x="-11.595703"
+         y="67.506024"><tspan
+           style="font-size:3.175px;text-align:start;text-anchor:start">Vo+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1258-1"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;text-align:start;white-space:pre;shape-inside:url(#rect1260-0);display:inline"
+       x="7.5470066"
+       y="0"
+       transform="translate(118.51246,-10.802448)"><tspan
+         x="-11.595703"
+         y="67.506024"><tspan
+           style="text-align:start;text-anchor:start">GND</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1258-8"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;text-align:start;white-space:pre;shape-inside:url(#rect1260-7);display:inline"
+       x="13.721824"
+       y="0"
+       transform="translate(119.62557,-5.581898)"><tspan
+         x="-11.595703"
+         y="67.506024"><tspan
+           style="font-size:3.175px;text-align:start;text-anchor:start">IN+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1258-3"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;text-align:start;white-space:pre;shape-inside:url(#rect1260-9);display:inline"
+       x="11.315769"
+       y="0"
+       transform="translate(121.53088,-0.361345)"><tspan
+         x="-11.595703"
+         y="67.506024"><tspan
+           style="text-align:start;text-anchor:start">EN</tspan></tspan></text>
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.644274;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1369"
+       ry="4.00705"
+       rx="3.9813118"
+       cy="62.844967"
+       cx="95.475525" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 122.16553,64.587891 1.98276,2.853248"
